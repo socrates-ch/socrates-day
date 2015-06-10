@@ -2,4 +2,5 @@
 
 Software Craftsmanship and Testing Conference in Switzerland.
 
-[Wiki](https://github.com/socrates-ch/conference/wiki)
+* [**Official Web Page**](http://socrates-day.ch/)
+* [**Wiki**](https://github.com/socrates-ch/conference/wiki)
