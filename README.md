@@ -2,4 +2,4 @@
 
 Software Craftsmanship and Testing Conference in Switzerland.
 
-Wiki
+[Wiki](https://github.com/socrates-ch/conference/wiki)
