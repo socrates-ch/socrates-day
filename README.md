@@ -1,2 +1,5 @@
-# conference
-repository and wiki for the SoCraTes conference in Zurich/Switzerland
+# SoCraTes Day Switzerland
+
+Software Craftsmanship and Testing Conference in Switzerland.
+
+Wiki
